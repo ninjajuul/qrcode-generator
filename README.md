@@ -1,7 +1,3 @@
-Here's a README in the same style for your QR Code Generator:
-
----
-
 **QR Code Generator**
 
 A simple Python script that generates QR codes from any text or URL. Just type or paste your input, and the script creates a scannable QR code, saves it as a PNG in the same folder as the script, and displays it right in your terminal for a quick preview.
